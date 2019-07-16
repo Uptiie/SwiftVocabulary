@@ -15,7 +15,7 @@
 		631970D222B463BD00896A10 /* Swift_VocabularyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631970D122B463BD00896A10 /* Swift_VocabularyUITests.swift */; };
 		631970E022B4647200896A10 /* WordsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631970DF22B4647200896A10 /* WordsTableViewController.swift */; };
 		631970E222B4651600896A10 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631970E122B4651600896A10 /* DefinitionViewController.swift */; };
-		631970E422B46EC000896A10 /* VovabularyWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631970E322B46EC000896A10 /* VovabularyWord.swift */; };
+		631970E422B46EC000896A10 /* VocabularyWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631970E322B46EC000896A10 /* VocabularyWord.swift */; };
 		631970E622B4711F00896A10 /* VocabularyController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631970E522B4711F00896A10 /* VocabularyController.swift */; };
 /* End PBXBuildFile section */
 
@@ -51,7 +51,7 @@
 		631970D322B463BD00896A10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		631970DF22B4647200896A10 /* WordsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordsTableViewController.swift; sourceTree = "<group>"; };
 		631970E122B4651600896A10 /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
-		631970E322B46EC000896A10 /* VovabularyWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VovabularyWord.swift; sourceTree = "<group>"; };
+		631970E322B46EC000896A10 /* VocabularyWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyWord.swift; sourceTree = "<group>"; };
 		631970E522B4711F00896A10 /* VocabularyController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,8 +106,8 @@
 				631970B122B463BC00896A10 /* AppDelegate.swift */,
 				631970DF22B4647200896A10 /* WordsTableViewController.swift */,
 				631970E122B4651600896A10 /* DefinitionViewController.swift */,
-				631970E322B46EC000896A10 /* VovabularyWord.swift */,
 				631970E522B4711F00896A10 /* VocabularyController.swift */,
+				631970E322B46EC000896A10 /* VocabularyWord.swift */,
 				631970B522B463BC00896A10 /* Main.storyboard */,
 				631970B822B463BD00896A10 /* Assets.xcassets */,
 				631970BA22B463BD00896A10 /* LaunchScreen.storyboard */,
@@ -268,7 +268,7 @@
 				631970E222B4651600896A10 /* DefinitionViewController.swift in Sources */,
 				631970E622B4711F00896A10 /* VocabularyController.swift in Sources */,
 				631970B222B463BC00896A10 /* AppDelegate.swift in Sources */,
-				631970E422B46EC000896A10 /* VovabularyWord.swift in Sources */,
+				631970E422B46EC000896A10 /* VocabularyWord.swift in Sources */,
 				631970E022B4647200896A10 /* WordsTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
